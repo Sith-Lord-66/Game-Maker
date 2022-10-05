@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureGroup>
+  <texture scale="0">Default_0.png</texture>
+  <tpe x="2" y="2" tpage="Default_0" entry="3">spr_Donut_spr_Donut_0.tpe</tpe>
+  <tpe x="2" y="486" tpage="Default_0" entry="9">spr_Pizza_spr_Pizza_0.tpe</tpe>
+  <tpe x="442" y="2" tpage="Default_0" entry="2">spr_VendingMachine_spr_VendingMachine_0.tpe</tpe>
+  <tpe x="710" y="2" tpage="Default_0" entry="6">sprite7_sprite7_0.tpe</tpe>
+  <tpe x="710" y="254" tpage="Default_0" entry="8">spr_DriveThru_spr_DriveThru_0.tpe</tpe>
+  <tpe x="442" y="418" tpage="Default_0" entry="1">spr_Arrow_spr_Arrow_0.tpe</tpe>
+  <tpe x="646" y="526" tpage="Default_0" entry="0">spr_IceCream_spr_IceCream_0.tpe</tpe>
+  <tpe x="442" y="690" tpage="Default_0" entry="5">spr_MegaDonut_spr_MegaDonut_0.tpe</tpe>
+  <tpe x="670" y="690" tpage="Default_0" entry="11">spr_HotFood_spr_HotFood_0.tpe</tpe>
+  <tpe x="2" y="950" tpage="Default_0" entry="4">spr_Counter_spr_Counter_0.tpe</tpe>
+  <tpe x="954" y="254" tpage="Default_0" entry="7">spr_ground_spr_ground_0.tpe</tpe>
+  <tpe x="646" y="418" tpage="Default_0" entry="10">sprite10_sprite10_0.tpe</tpe>
+</TextureGroup>
